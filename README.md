@@ -1,5 +1,5 @@
 # RESTFULL-APIS-com-Python-e-Flask
-*Repositório de estudos*
+*Repositório de estudos sobre API's utilizando Flask*
 
 
 ## Objetivo
